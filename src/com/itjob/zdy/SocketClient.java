@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-public class ClientOne {
+public class SocketClient {
 
 	public static void main(String[] args) {
 		try {
